@@ -1,0 +1,36 @@
+@media (max-width: 700px) {
+  /* header  */
+  .header_nav {
+    display: none;
+  }
+  .header_logo2 {
+    display: none;
+  }
+  .fa-bars {
+    display: block;
+    display: flex;
+  }
+}
+@media (max-width: 650px) {
+  /* footer  */
+  footer {
+    padding: 32px 24px;
+  }
+  .footer_logo_a {
+    display: flex;
+    justify-content: center;
+  }
+  br {
+    display: none;
+  }
+}
+@media (max-width: 530px) {
+  /* section_1  */
+  .section_1 {
+    height: 240px;
+  }
+  .section_1_title {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+}

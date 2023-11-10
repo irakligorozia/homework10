@@ -1,0 +1,11 @@
+@media (max-width: 400px) {
+  /* section_2  */
+  .section_2_div {
+    margin-top: 32px;
+  }
+  /* section_3  */
+  .section_3 {
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+}
